@@ -1,1 +1,1 @@
-A translator application.
+A AI-powered translator application.
